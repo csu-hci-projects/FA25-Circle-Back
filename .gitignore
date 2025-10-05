@@ -131,6 +131,7 @@ $RECYCLE.BIN/
 #-------------------------------------------------------#
 
 # Mac Specific Files to Ignore:
+
 # General
 .DS_Store
 __MACOSX/
